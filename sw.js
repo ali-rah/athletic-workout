@@ -1,5 +1,5 @@
 
-const CACHE = 'athletic-pwa-v3';
+const CACHE = 'athletic-pwa-v4';
 
 const FILES = [
   './',
